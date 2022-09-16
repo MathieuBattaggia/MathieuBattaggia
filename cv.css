@@ -1,0 +1,21 @@
+.page{
+    width: 780px;
+    margin: auto;
+    font-family: 'Arial',sans-serif;
+    font-size: 16px;
+}
+.entetegauche{
+    float: left;
+    
+}
+.section{
+    float: right;
+    margin-bottom: 70px;
+    
+}
+.sec-titre{
+    float: left;
+}
+.sec-texte{
+    
+}
