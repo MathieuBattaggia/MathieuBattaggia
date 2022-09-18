@@ -1,0 +1,72 @@
+body{
+     background-color:#e5e5e5;
+}
+.page{
+    width: 780px;
+   / height: 1080px;
+    margin: auto;
+    font-family: Arial,sans-serif;
+    font-size: 16px;
+    background-color:white;
+    padding: 100px 50px;
+    
+}
+.entetegauche{
+    float: left;
+}
+.entetedroit{
+    margin-left: 200px;
+    border-top: 4px solid black;
+}
+.sec-titre{
+    float: left;
+    
+}
+.sec-titre p {
+    font-weight: bold;
+}
+.sec-texte{
+    border-top: 3px solid black;
+    margin-left: 200px;
+}
+.section1{
+    height: 200px;
+    text-align: justify;
+}
+.section2{
+    
+   / height: 250px;
+   / margin-bottom: 100 px;
+    text-align: justify;
+    line-height: 2;
+}
+.section3{
+   / height: 250px;
+    text-align: justify;
+    line-height: 2;
+}
+.section4{
+   / height: 250px;
+    text-align: justify;
+    line-height: 2;
+}
+.section5{
+  /  height: 250px;
+    text-align: justify;
+    line-height: 2;
+}
+span.nom{
+    font-size: 32px;
+    font-weight: bold;
+}
+span.statut{
+    font-weight: bold;
+    font-size: 21px;
+    color: #d44500;
+}
+span.num{
+    color: #d44500;
+}
+/span.border{
+    border-top: 3px solid black;
+}
