@@ -70,3 +70,6 @@ span.num{
 /span.border{
     border-top: 3px solid black;
 }
+a{
+     text-align: center;
+}
